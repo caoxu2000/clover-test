@@ -1,0 +1,8 @@
+{
+  "searchEngineUrl": "https://www.google.com",
+  "searchInputSelector": "input[name=\"q\"]",
+  "searchTerm": "clover network{enter}",
+  "searchResultsSelector": "#rcnt div[role=\"heading\"]",
+  "searchResultsIndex": "0",
+  "expectedText": "Clover.com - Clover® Official Site - The All-in-One POS"
+}
