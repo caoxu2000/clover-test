@@ -4,6 +4,7 @@
   git clone git@github.com:caoxu2000/clover-test.git
   cd clover-test
   npm install
+  ./node_modules/.bin/cypress install
   npm test or npx cypress open
 ```
 1. Once Cypress app is opened, click on E2E Testing tile on the left
